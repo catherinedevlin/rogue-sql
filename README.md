@@ -58,7 +58,7 @@ to
 
     SELECT s2, d1, i1, i2 FROM tbl 
 
-### Filter on multiple tables 
+### Filter on multiple columns 
 
     SELECT * FROM tbl 
     WHERE * = 100
